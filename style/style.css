@@ -23,7 +23,7 @@ ul img{
     border-radius: 50%;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.418);
     width: 70px;
-    margin: 12px;
+    margin: 20px 15px 20px 0px;
 }
 
 ul img:hover{
