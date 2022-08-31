@@ -48,12 +48,12 @@ main{
 }
 
 iframe#home{
+
     height: 475px;
-    width: 270px;
+    width: 275px;
     background-color: black;
     position: absolute;
     left: 50%;
     top: 50.5%;
-
     transform: translate(-50%, -50%);
 }
