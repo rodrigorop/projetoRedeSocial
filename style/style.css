@@ -49,11 +49,10 @@ main{
 
 iframe#home{
 
-    height: 475px;
-    width: 275px;
+    height: 468px;
+    width: 265px;
     background-color: black;
     position: absolute;
-    left: 50%;
-    top: 50.5%;
-    transform: translate(-50%, -50%);
+    top: 81.5px;
+    left: 23px;
 }
