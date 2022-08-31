@@ -27,17 +27,18 @@ ul img{
 }
 
 ul img:hover{
-    transform: translate(-10px, -10px);
+    transform: translate(-6px, -6px);
     transition: 0.4s;
 }
 
 main{
+
     background-image: url(../img/frame-iphone.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain;
-    width: 400px;
-    height: 800px;
+
+    width: 311px;
+    height: 627px;
 
     position: absolute;
     left: 50%;
@@ -47,8 +48,8 @@ main{
 }
 
 iframe#home{
-    height: 605px;
-    width: 345px;
+    height: 475px;
+    width: 270px;
     background-color: black;
     position: absolute;
     left: 50%;
